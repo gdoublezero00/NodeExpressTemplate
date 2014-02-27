@@ -1,0 +1,21 @@
+{
+  "name": "MyApp",
+  "version": "0.0.1",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1",
+    "normalize-css": "~3.0.0"
+  },
+  "devDependencies": {
+    "jquery": "2.1",
+    "normalize-css": "~3.0.0",
+    "bootstrap": "3"
+  }
+}
